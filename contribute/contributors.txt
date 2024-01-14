@@ -4,9 +4,6 @@ github:sanjayh-2022
 name: R aswin
 github id: Aswinr24
 
-name: abcd
-github id: xyz
-
 name: Vinayak Naik
 github id: 1DS22CY060Vinayak
 
