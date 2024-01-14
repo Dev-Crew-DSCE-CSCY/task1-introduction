@@ -22,3 +22,5 @@ github id: DivyanshiChau
 name: Dharaneesh K
 github id: DharaneeshKuruba
 
+name: Prateek Singh
+github id: prateek13singh
