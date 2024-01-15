@@ -25,3 +25,5 @@ github id: DharaneeshKuruba
 name: Prateek Singh
 github id: prateek13singh
 
+name: Spoorthi Rai
+github id: RaiSpoorthi
