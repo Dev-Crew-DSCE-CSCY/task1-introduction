@@ -67,5 +67,3 @@ github id: Pratheek1807
 name:Nidhi N
 github id:NidhiNagesh1
 
-name:Gowtham R
-github id:GowthamRangaswamy1
